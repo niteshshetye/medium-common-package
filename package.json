@@ -1,6 +1,6 @@
 {
   "name": "@niteshshetye/medium-common",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "It containse my medium backend api body validation with zod and infer",
   "main": "dist/index.js",
   "scripts": {
